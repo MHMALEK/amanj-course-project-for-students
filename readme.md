@@ -1,5 +1,6 @@
 # Amanj React Course Final Project
 
+[برای خواندن نسخه فارسی کلیک کنید](https://github.com/MHMALEK/amanj-course-project-for-students/blob/main/readme-persian.md)
 
 Dear Students, please read the instruction. create a new repository for your project and don't hesitate to ask any questions you might have.
 
